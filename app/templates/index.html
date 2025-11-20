@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orientamento ITT Malafarina</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="/static/avatar.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <header class="hero">
+            <div class="hero-content">
+                <h1>ITT G. Malafarina</h1>
+                <p class="subtitle">Il tuo futuro inizia qui. Scopri la nostra offerta formativa.</p>
+            </div>
+        </header>
+
+        <main class="chat-container">
+            <div class="chat-header">
+                <div class="avatar-container">
+                    <img src="/static/avatar.png" alt="Assistente Virtuale" class="avatar-image">
+                    <div class="status-dot"></div>
+                </div>
+                <h2>Assistente Virtuale</h2>
+                <p>Chiedi informazioni su corsi, orari e attività.</p>
+            </div>
+
+            <div id="chat-history" class="chat-history">
+                <div class="message bot-message">
+                    Ciao! Sono l'assistente virtuale dell'ITT Malafarina. Come posso aiutarti oggi?
+                </div>
+            </div>
+
+            <div class="input-area">
+                <form id="chat-form">
+                    <input type="text" id="user-input" placeholder="Scrivi la tua domanda qui..." autocomplete="off">
+                    <button type="submit" id="send-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
+                            <path
+                                d="M3.478 2.405a.75.75 0 00-.926.94l2.432 7.905H13.5a.75.75 0 010 1.5H4.984l-2.432 7.905a.75.75 0 00.926.94 60.519 60.519 0 0018.445-8.986.75.75 0 000-1.218A60.517 60.517 0 003.478 2.405z" />
+                        </svg>
+                    </button>
+                </form>
+            </div>
+        </main>
+
+        <section class="info-cards">
+            <div class="card">
+                <h3>Open Day</h3>
+                <p>Vieni a trovarci! Prossime date: 19 Dicembre, 10, 17, 24, 25 Gennaio.</p>
+            </div>
+            <div class="card">
+                <h3>Mini Stage</h3>
+                <p>Prova i nostri laboratori. Prenota il tuo posto per un'esperienza pratica.</p>
+                <a href="https://forms.gle/2BiVy1t9oK95s6CY9" target="_blank" class="btn-link">Prenota Ora</a>
+            </div>
+            <div class="card">
+                <h3>Indirizzi</h3>
+                <p>Informatica, Elettronica, Grafica, Costruzioni (CAT). Scopri di più chiedendo all'assistente.</p>
+            </div>
+        </section>
+
+        <footer>
+            <p>&copy; 2025 ITT G. Malafarina Soverato - Orientamento</p>
+        </footer>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+
+</html>
