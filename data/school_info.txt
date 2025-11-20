@@ -1,5 +1,9 @@
 Istituto Tecnico Tecnologico "G. Malafarina" di Soverato.
+Codice Meccanografico: CZTL06000D
 Sito web: www.itmalafarina.edu.it
+Email: CZTL06000D@istruzione.it
+PEC: cztl06000d@pec.istruzione.it
+Telefono: 0967 21693
 
 DOCUMENTI UFFICIALI:
 Piano Triennale dell'Offerta Formativa (PTOF) 2025-2028:
@@ -18,7 +22,23 @@ Indirizzi di Studio:
 2. Elettronica ed Elettrotecnica: Studio di circuiti, sistemi elettronici, automazione, robotica e impianti elettrici.
 3. Costruzioni Ambiente e Territorio (CAT - ex Geometra): Progettazione, costruzioni, topografia, estimo e sicurezza nei cantieri.
 4. Grafica e Comunicazione: Progettazione grafica, comunicazione visiva, multimedia, fotografia e stampa.
-5. Informatica e Telecomunicazioni (Corso Quadriennale): Percorso accelerato di 4 anni per il diploma.
+5. Informatica e Telecomunicazioni (Corso Quadriennale - Filiera 4+2):
+   Percorso innovativo che consente di ottenere il diploma in 4 anni (equipollente al quinquennale) e accedere direttamente all'ITS Academy (2 anni di alta specializzazione).
+   
+   Dettagli Filiera 4+2:
+   - Durata: 4 anni (Diploma) + 2 anni (Specializzazione ITS).
+   - Quadro Orario: Il percorso di 4 anni prevede una rimodulazione del piano di studi con un orario settimanale potenziato (solitamente 35 ore invece di 32/33) per garantire il raggiungimento degli stessi obiettivi del quinquennio.
+   - Caratteristiche: Maggiore enfasi su laboratori, discipline STEM, lingue straniere e PCTO (esperienze lavorative).
+   
+   ITS Cadmo (Partner per il +2):
+   - L'ITS Cadmo è un'Accademia di Istruzione Tecnica Superiore con sedi in Calabria (incluso Soverato).
+   - Offre corsi biennali post-diploma (1800 ore: 1080 aula/lab + 720 stage) in ambito ICT.
+   - Figure professionali: Software Developer, Cyber Security Expert, Programmatore 4.0.
+   - Titolo: Diploma di Tecnico Superiore (V livello EQF), altamente spendibile nel mercato del lavoro.
+   - Sito web: https://www.itscadmo.it
+
+6. Corso Serale (Codice: CZTL06050V):
+   Percorso di istruzione per adulti (secondo livello) per il conseguimento del diploma tecnico.
 
 Attività di Orientamento 2025/2026:
 Il progetto "latuascelta#oltrelamedia" è destinato agli studenti dell'ultimo anno delle medie.
@@ -34,7 +54,7 @@ Mini Stage (Laboratori pratici):
 - 19 Dicembre: 16.00 - 18.00
 - 9 Gennaio: 16.00 - 18.00
 - 16 Gennaio: 16.00 - 18.00
-I mini stage permettono di provare i laboratori. Max 10 studenti per gruppo. Orario: 15:50 - 19:00.
+I mini stage permettono di provare i laboratori. Max 10 studenti per gruppo. Orario: 15:50 - 18:00.
 Prenotazione obbligatoria: https://forms.gle/2BiVy1t9oK95s6CY9
 
 Contatti per Orientamento:
@@ -44,3 +64,12 @@ Email: orientamento@ittsoverato.it
 
 Visite:
 La scuola è visitabile ogni giorno 09.00 - 19.00 previo appuntamento.
+
+La scuola in numeri
+Alunni: 574
+Classi: 35
+Media alunni/classi: 16,4
+Personale: 125
+
+ULTERIORI INFORMAZIONI:
+Per consultare statistiche aggiornate su alunni, personale e l'organigramma completo, visitare il portale "Scuola in Chiaro" su Unica: https://unica.istruzione.gov.it/cercalatuascuola/istituti/CZTL06000D/ITT%20%22MALAFARINA%22%20SOVERATO
