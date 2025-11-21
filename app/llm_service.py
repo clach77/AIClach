@@ -2,13 +2,13 @@ import os
 import ollama
 
 class LLMService:
-    """def __init__(self, model_name="llama3.1", data_path="data/school_info.txt"):"""
-    def __init__(self, model_name="llama3.1:latest", data_path="data/school_info.txt", ptof_path="data/ptof_full.txt"):
+    
+    def __init__(self, model_name="llama3.1", data_path="data/school_info.txt"):
         self.model_name = model_name
-        self.context = self._load_context(data_path, ptof_path)
+        self.context = self._load_context(data_path)
         self.system_prompt = self._create_system_prompt()
 
-    def _load_context(self, path, ptof_path):
+    def _load_context(self, path):
         context = ""
         try:
             with open(path, "r") as f:
@@ -16,13 +16,6 @@ class LLMService:
         except Exception as e:
             print(f"Error loading context from {path}: {e}")
         
-        try:
-            if os.path.exists(ptof_path):
-                with open(ptof_path, "r") as f:
-                    context += "INFORMAZIONI DETTAGLIATE (PTOF):\n" + f.read()
-        except Exception as e:
-            print(f"Error loading PTOF from {ptof_path}: {e}")
-            
         return context
 
     def _create_system_prompt(self):
