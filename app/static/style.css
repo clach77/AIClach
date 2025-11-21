@@ -95,7 +95,8 @@ body {
     gap: 1rem;
 }
 
-.mic-button {
+.mic-button,
+.stop-button {
     width: 80px;
     height: 80px;
     border-radius: 50%;
@@ -108,6 +109,13 @@ body {
     justify-content: center;
     transition: all 0.3s ease;
     box-shadow: 0 0 20px rgba(79, 70, 229, 0.3);
+}
+
+.stop-button:hover {
+    background: #ef4444;
+    border-color: #f87171;
+    transform: scale(1.1);
+    box-shadow: 0 0 30px rgba(239, 68, 68, 0.6);
 }
 
 .mic-button:hover,
@@ -342,4 +350,21 @@ body {
     40% {
         transform: scale(1);
     }
+}
+
+/* Utilities */
+.w-6 {
+    width: 1.5rem;
+}
+
+.h-6 {
+    height: 1.5rem;
+}
+
+.w-8 {
+    width: 2rem;
+}
+
+.h-8 {
+    height: 2rem;
 }

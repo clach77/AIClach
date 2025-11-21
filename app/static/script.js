@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const chatHistory = document.getElementById('chat-history');
     const sendBtn = document.getElementById('send-btn');
     const micBtn = document.getElementById('mic-btn');
+    const stopBtn = document.getElementById('stop-btn');
     const avatarContainer = document.getElementById('avatar-container');
     const avatarStateText = document.getElementById('avatar-state-text');
 
@@ -57,8 +58,28 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // Stop Button Handler
+    if (stopBtn) {
+        stopBtn.addEventListener('click', () => {
+            if (synthesis.speaking) {
+                synthesis.cancel();
+                setAvatarState('idle');
+            }
+        });
+    }
+
     chatForm.addEventListener('submit', async (e) => {
         e.preventDefault();
+
+        // If speaking, stop speech and return (don't send message yet)
+        // Or should we send the message? The user said "same function on the send button".
+        // The stop button ONLY stops speech. So let's stop speech.
+        if (synthesis.speaking) {
+            synthesis.cancel();
+            setAvatarState('idle');
+            return;
+        }
+
         const message = userInput.value.trim();
         if (!message) return;
 
@@ -156,6 +177,11 @@ document.addEventListener('DOMContentLoaded', () => {
         avatarContainer.classList.remove('listening', 'speaking', 'thinking');
         micBtn.classList.remove('listening');
 
+        // Hide stop button by default
+        if (stopBtn) stopBtn.style.display = 'none';
+        // Show mic button by default (unless speaking)
+        if (micBtn) micBtn.style.display = 'flex';
+
         switch (state) {
             case 'listening':
                 avatarContainer.classList.add('listening');
@@ -165,6 +191,9 @@ document.addEventListener('DOMContentLoaded', () => {
             case 'speaking':
                 avatarContainer.classList.add('speaking');
                 avatarStateText.textContent = "Sto parlando...";
+                // Show stop button, hide mic button
+                if (stopBtn) stopBtn.style.display = 'flex';
+                if (micBtn) micBtn.style.display = 'none';
                 break;
             case 'thinking':
                 avatarStateText.textContent = "Sto pensando...";
@@ -186,8 +215,27 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const utterance = new SpeechSynthesisUtterance(plainText);
         utterance.lang = 'it-IT';
+
+        // Select a female Italian voice if available
+        const voices = synthesis.getVoices();
+        const italianVoices = voices.filter(voice => voice.lang.includes('it'));
+
+        // Priority list for female voices
+        const femaleVoice = italianVoices.find(voice =>
+            voice.name.includes('Google') || // Google Italiano (often female)
+            voice.name.includes('Alice') ||  // Common female voice
+            voice.name.includes('Elsa') ||   // Common female voice
+            voice.name.includes('Serena') || // Common female voice
+            voice.name.includes('Paola') ||  // Common female voice
+            voice.name.toLowerCase().includes('female') // Generic check
+        );
+
+        if (femaleVoice) {
+            utterance.voice = femaleVoice;
+        }
+
         utterance.rate = 1.0;
-        utterance.pitch = 1.0;
+        utterance.pitch = 1.1; // Slightly higher pitch for a younger voice
 
         utterance.onstart = () => {
             setAvatarState('speaking');

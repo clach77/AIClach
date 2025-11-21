@@ -3,18 +3,27 @@ import ollama
 
 class LLMService:
     """def __init__(self, model_name="llama3.1", data_path="data/school_info.txt"):"""
-    def __init__(self, model_name="llama3.1:latest", data_path="data/school_info.txt"):
+    def __init__(self, model_name="llama3.1:latest", data_path="data/school_info.txt", ptof_path="data/ptof_full.txt"):
         self.model_name = model_name
-        self.context = self._load_context(data_path)
+        self.context = self._load_context(data_path, ptof_path)
         self.system_prompt = self._create_system_prompt()
 
-    def _load_context(self, path):
+    def _load_context(self, path, ptof_path):
+        context = ""
         try:
             with open(path, "r") as f:
-                return f.read()
+                context += f.read() + "\n\n"
         except Exception as e:
-            print(f"Error loading context: {e}")
-            return ""
+            print(f"Error loading context from {path}: {e}")
+        
+        try:
+            if os.path.exists(ptof_path):
+                with open(ptof_path, "r") as f:
+                    context += "INFORMAZIONI DETTAGLIATE (PTOF):\n" + f.read()
+        except Exception as e:
+            print(f"Error loading PTOF from {ptof_path}: {e}")
+            
+        return context
 
     def _create_system_prompt(self):
         return f"""
@@ -42,7 +51,8 @@ Rispondi in italiano, in modo accogliente e incoraggiante. Sii conciso ma comple
         messages.append({'role': 'user', 'content': user_message})
 
         try:
-            response = ollama.chat(model=self.model_name, messages=messages)
+            # Increase context window to handle larger prompts (e.g., full PTOF)
+            response = ollama.chat(model=self.model_name, messages=messages, options={'num_ctx': 8192})
             return response['message']['content']
         except Exception as e:
             return f"Mi dispiace, si è verificato un errore tecnico: {str(e)}. Assicurati che Ollama sia in esecuzione."
