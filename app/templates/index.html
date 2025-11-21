@@ -13,62 +13,79 @@
 </head>
 
 <body>
-    <div class="container">
-        <header class="hero">
-            <div class="hero-content">
+    <div class="main-layout">
+        <!-- Left Panel: Avatar & Branding -->
+        <aside class="left-panel">
+            <div class="brand-header">
                 <h1>ITT G. Malafarina</h1>
-                <p class="subtitle">Il tuo futuro inizia qui. Scopri la nostra offerta formativa.</p>
+                <p class="subtitle">Il tuo futuro inizia qui.</p>
             </div>
-        </header>
 
-        <main class="chat-container">
-            <div class="chat-header">
-                <div class="avatar-container">
+            <div class="avatar-section">
+                <div class="avatar-container" id="avatar-container">
                     <img src="/static/avatar.png" alt="Assistente Virtuale" class="avatar-image">
+                    <div class="status-ring"></div>
                     <div class="status-dot"></div>
                 </div>
-                <h2>Assistente Virtuale</h2>
-                <p>Chiedi informazioni su corsi, orari e attività.</p>
-            </div>
-
-            <div id="chat-history" class="chat-history">
-                <div class="message bot-message">
-                    Ciao! Sono l'assistente virtuale dell'ITT Malafarina. Come posso aiutarti oggi?
+                <div class="avatar-status">
+                    <h2>Assistente Virtuale</h2>
+                    <p id="avatar-state-text">Sono qui per aiutarti</p>
                 </div>
             </div>
 
-            <div class="input-area">
-                <form id="chat-form">
-                    <input type="text" id="user-input" placeholder="Scrivi la tua domanda qui..." autocomplete="off">
-                    <button type="submit" id="send-btn">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
-                            <path
-                                d="M3.478 2.405a.75.75 0 00-.926.94l2.432 7.905H13.5a.75.75 0 010 1.5H4.984l-2.432 7.905a.75.75 0 00.926.94 60.519 60.519 0 0018.445-8.986.75.75 0 000-1.218A60.517 60.517 0 003.478 2.405z" />
-                        </svg>
-                    </button>
-                </form>
+            <div class="mic-controls">
+                <button id="mic-btn" class="mic-button" title="Parla con l'assistente">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-8 h-8">
+                        <path d="M8.25 4.5a3.75 3.75 0 117.5 0v8.25a3.75 3.75 0 11-7.5 0V4.5z" />
+                        <path
+                            d="M6 10.5a.75.75 0 01.75.75v1.5a5.25 5.25 0 1010.5 0v-1.5a.75.75 0 011.5 0v1.5a6.751 6.751 0 01-6 6.709v2.291h3a.75.75 0 010 1.5h-7.5a.75.75 0 010-1.5h3v-2.291a6.751 6.751 0 01-6-6.709v-1.5A.75.75 0 016 10.5z" />
+                    </svg>
+                </button>
+                <p class="mic-hint">Tocca per parlare</p>
             </div>
+        </aside>
+
+        <!-- Right Panel: Chat & Info -->
+        <main class="right-panel">
+            <div class="chat-container">
+                <div id="chat-history" class="chat-history">
+                    <div class="message bot-message">
+                        Ciao! Sono l'assistente virtuale dell'ITT Malafarina. Chiedimi pure informazioni su corsi, orari
+                        e attività.
+                    </div>
+                </div>
+
+                <div class="input-area">
+                    <form id="chat-form">
+                        <input type="text" id="user-input" placeholder="Scrivi la tua domanda qui..."
+                            autocomplete="off">
+                        <button type="submit" id="send-btn">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
+                                class="w-6 h-6">
+                                <path
+                                    d="M3.478 2.405a.75.75 0 00-.926.94l2.432 7.905H13.5a.75.75 0 010 1.5H4.984l-2.432 7.905a.75.75 0 00.926.94 60.519 60.519 0 0018.445-8.986.75.75 0 000-1.218A60.517 60.517 0 003.478 2.405z" />
+                            </svg>
+                        </button>
+                    </form>
+                </div>
+            </div>
+
+            <section class="info-cards">
+                <div class="card">
+                    <h3>Open Day</h3>
+                    <p>19 Dic, 10/17/24/25 Gen</p>
+                </div>
+                <div class="card">
+                    <h3>Mini Stage</h3>
+                    <p>Prenota i laboratori</p>
+                    <a href="https://forms.gle/2BiVy1t9oK95s6CY9" target="_blank" class="btn-link">Prenota</a>
+                </div>
+                <div class="card">
+                    <h3>Indirizzi</h3>
+                    <p>Informatica, Elettronica, Grafica, CAT</p>
+                </div>
+            </section>
         </main>
-
-        <section class="info-cards">
-            <div class="card">
-                <h3>Open Day</h3>
-                <p>Vieni a trovarci! Prossime date: 19 Dicembre, 10, 17, 24, 25 Gennaio.</p>
-            </div>
-            <div class="card">
-                <h3>Mini Stage</h3>
-                <p>Prova i nostri laboratori. Prenota il tuo posto per un'esperienza pratica.</p>
-                <a href="https://forms.gle/2BiVy1t9oK95s6CY9" target="_blank" class="btn-link">Prenota Ora</a>
-            </div>
-            <div class="card">
-                <h3>Indirizzi</h3>
-                <p>Informatica, Elettronica, Grafica, Costruzioni (CAT). Scopri di più chiedendo all'assistente.</p>
-            </div>
-        </section>
-
-        <footer>
-            <p>&copy; 2025 ITT G. Malafarina Soverato - Orientamento</p>
-        </footer>
     </div>
     <script src="/static/script.js"></script>
 </body>
