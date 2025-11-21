@@ -73,3 +73,704 @@ Personale: 125
 
 ULTERIORI INFORMAZIONI:
 Per consultare statistiche aggiornate su alunni, personale e l'organigramma completo, visitare il portale "Scuola in Chiaro" su Unica: https://unica.istruzione.gov.it/cercalatuascuola/istituti/CZTL06000D/ITT%20%22MALAFARINA%22%20SOVERATO
+
+
+PTOF:
+ITT "MALAFARINA" SOVERATO
+CZTL06000D
+
+Triennio di riferimento: 2025-2028
+
+Mission e vision dell'organizzazione scolastica
+Il Piano Triennale dell'Offerta Formativa (PTOF) dell'Istituto Tecnico Tecnologico "G. Malafarina" va
+inteso come un documento dinamico in continua evoluzione volto a condividere le azioni, le
+progettualità e le buone pratiche di tutti i soggetti, interni ed esterni, che contribuiscono allo
+sviluppo e al miglioramento dell'offerta formativa. Pianificare un’Offerta Formativa Triennale
+significa progettare, orientare e prevedere percorsi coerentemente con gli obiettivi di apprendimento e di competenze attesi e fissati dalle Indicazioni Ministeriali specifiche per gli indirizzi
+e gli ordini e gradi di scuola, con le esigenze del contesto territoriale, con le istanze particolari
+dell’utenza della scuola.
+La pianificazione del PTOF avviene a livello collegiale ed è finalizzata alle scelte educative, curricolari,
+extracurricolari e organizzative, al contrasto della dispersione scolastica, di ogni forma di discriminazione, al potenziamento dell’inclusione scolastica e del diritto al successo formativo di tutti
+gli studenti, alla cura educativa e didattica speciale per gli alunni che manifestano difficoltà
+negli apprendimenti legate a cause diverse (disturbi, svantaggio), all’alfabetizzazione e al perfezionamento dell’italiano come lingua seconda attraverso corsi e laboratori per studenti di
+cittadinanza o di lingua non italiana, alla individualizzazione e alla personalizzazione delle esperienze
+per il recupero delle difficoltà, per il potenziamento delle eccellenze, per la valorizzazione del
+merito. Il successo formativo degli studenti è il focus principale del PTOF ed in vista di questo
+l'Istituzione scolastica pone in essere tutte le necessarie azioni per fornire agli studenti tutto il
+sostegno possibile. Ciò contribuisce ad evidenziare la vision, che rappresenta gli obiettivi e i
+traguardi da raggiungere e la mission, che invece è l’insieme delle strategie da mettere in atto
+affinché la vision possa essere realizzata. L’identità di una scuola, che viene espressa nel PTOF,
+emerge dall'integrazione di mission e vision. La progettualità dell’ITT “G. MALAFARINA” è dunque
+volta a garantire l’esercizio del diritto delle studentesse e degli studenti al successo formativo e alla
+migliore realizzazione di sé, in rapporto alle caratteristiche individuali, secondo principi di equità e di
+pari opportunità.
+A tal fine, gli indirizzi che saranno perseguiti nel nuovo triennio sono:
+a) Benessere scolastico per garantire un ambiente educativo accogliente, inclusivo e sicuro, che favorisca il successo formativo di tutti gli studenti;
+b) Didattica innovativa e per competenze volta a sviluppare un approccio educativo orientato
+all'apprendimento attivo e al potenziamento delle competenze chiave per la cittadinanza
+europea;
+c) Transizione digitale per promuovere l'uso consapevole e critico delle tecnologie digitali per l'insegnamento e l'apprendimento;
+d) Educazione alla sostenibilità per integrare i principi di sviluppo sostenibile nei curricoli, favorendo l'educazione alla cittadinanza globale e al rispetto dell'ambiente.
+
+In una tale visione, per l’attuazione e la realizzazione dell’organizzazione scolastica, è necessario
+avvalersi di una leadership distribuita e diffusa, con la finalità di valorizzare e accrescere la
+professionalità di ciascuno e dei gruppi di lavoro, facendo emergere le competenze e le capacità di
+ciascuno attraverso la delega di compiti ed il riconoscimento di spazi di autonomia decisionale e di
+responsabilità. Pertanto tutte le figure di sistema saranno impegnate ed integrate nell'ambito
+gestionale-organizzativo e nell'ambito didattico.
+La scuola non può raggiungere da sola la sua vision, ma fondamentale è il coinvolgimento delle
+famiglie che, in una sorta di alleanza educativa, creano una comunità educante pronta a costruire un
+ambiente di apprendimento cooperativo.
+Contesto e territorio
+L’ISTITUTO TECNICO TECNOLOGICO “GIOVANNI MALAFARINA” di Soverato è collocato in Via Trento
+e Trieste, in una posizione molto favorevole, in quanto è a pochi minuti dalla stazione ferroviaria e
+dalle fermate di alcune autolinee necessarie al collegamento con il territorio. La struttura è di
+proprietà della Provincia di Catanzaro ed è un moderno complesso scolastico che si estende su una
+superficie di 5730 mq.
+Il contesto socio economico e culturale di provenienza degli studenti è di livello MEDIO. Gli studenti
+che frequentano i corsi provengono nella maggior parte dai comuni della fascia ionica e
+dell'entroterra del soveratese. Bassa è la percentuale di studenti con cittadinanza non italiana.
+Il territorio su cui è ubicata la scuola presenta un livello di disoccupazione del 16,2 % (dati Istat,
+Calabria 2023). Il tessuto economico produttivo del territorio presenta carenze strutturali in termini
+di media impresa, che dovrebbe costituirne l'ossatura principale. Inoltre, la presenza di piccole realtà
+imprenditoriali a conduzione familiare non risponde adeguatamente alle esigenze occupazionali.
+L'obiettivo ambizioso di questa istituzione scolastica è migliorare la situazione culturale degli
+studenti mediante un più ampio coinvolgimento di governance territoriale, la professionalità del
+personale docente e del personale A.T.A. che investono quotidianamente sullo sviluppo della cultura
+e della socializzazione anche attraverso varie progettualità (PON e POR), le attività di orientamento
+che accompagnano studenti e famiglie e l'utilizzo mirato delle risorse stanziate per il PNRR:
+• per le azioni di prevenzione e contrasto della dispersione scolastica;
+• per promuovere lo sviluppo della didattica digitale e di formazione degli studenti e del
+personale scolastico sulla transizione digitale;
+• per garantire pari opportunità e uguaglianza di genere, in termini didattici e di orientamento,
+rispetto alle materie STEM (scienza, tecnologia, ingegneria e matematica), alla computer science e alle competenze multilinguistiche;
+• per trasformare le aule scolastiche precedentemente dedicate ai processi di didattica frontale
+in ambienti di apprendimento innovativi, connessi e digitali e potenziando i laboratori per le
+professioni digitali attraverso la modernizzazione di tutti gli ambienti scolastici dotandoli di
+tecnologie utili alla didattica digitale.
+Per migliorare il livello di occupazione si rende necessaria la conoscenza delle opportunità che offre
+il territorio nei diversi settori, utilizzando la disponibilità delle Associazioni culturali e di servizio, delle
+varie Aziende presenti mediante ulteriori protocolli di intesa per stage di attività pratiche. Si tiene
+conto delle esigenze e della programmazione delle iniziative educative e culturali presentate dagli
+Enti Locali e dai Servizio sociosanitari, nonché delle proposte e delle iniziative promosse dalle diverse
+realtà istituzionali, culturali, sociali ed economiche operanti nel territorio.
+Dall’ a. s. 2024/25 l’ITT G. Malafarina dà la possibilità ai giovani di iscriversi al nuovo percorso
+sperimentale quadriennale della filiera tecnologico-professionale (indirizzo informatico) che offrirà ai
+suoi diplomati una serie di scelte per il futuro, anche attraverso il proseguimento degli studi con
+l’Alta Formazione dell'“ISTITUTO TECNICO SUPERIORE CADMO” ad indirizzo “nuove tecnologie dell'
+informazione e della comunicazione”. L’Istituto, primo ITS della provincia di Catanzaro, finanziato dal
+Ministero dell'Istruzione e del Merito e dalla Regione Calabria, svolge la propria attività in apposita
+sede concessa dal Comune di Soverato con docenti selezionati tra i migliori esperti in campo
+nazionale ed internazionale.
+
+Popolazione scolastica
+Opportunità:
+In una società in piena trasformazione dove le problematiche e le complessità si riflettono nella
+scuola, l'istituto ITT G. Malafarina vuole offrire un Piano Triennale dell'Offerta Formativa che metta in
+risalto la centralità dello studente e cerchi di rispondere alle esigenze familiari promuovendo attività,
+strategie didattiche e percorsi formativi indirizzati ad un apprendimento sempre più trasversale e
+multidimensionale; ciò è possibile grazie all'elevato numero di laboratori tecnici e tecnologici e alla
+strumentazione didattica di cui la scuola dispone, nonché alla realizzazione di progetti dei Piani
+Operativi Nazionali e Regionali che si realizzano annualmente (POR o PON) e ai percorsi educativi e
+formativi del Programma nazionale "Scuola e competenze" 2021-2027 (FSE) per il potenziamento
+delle competenze, l'inclusione e la socialità che interesseranno anche i periodi di sospensione dalle
+lezioni. La scuola offre, inoltre, agli studenti la possibilità di effettuare gratuitamente viaggi all'estero
+mediante progetti Erasmus+ e accordi con Enti stranieri.
+Nuovi approcci e scenari per il futuro si aprono con la sperimentazione sull' Intelligenza Artificiale
+(IA) per il Potenziamento dell'Apprendimento, per la quale l'ITT G. Malafarina è scuola capofila del
+progetto IMPAR-AI che ha il fine di dimostrare come l'IA possa migliorare l'apprendimento e il
+rendimento degli studenti.
+La nostra Istituzione scolastica è particolarmente attenta ai bisogni degli allievi BES/DSA o con L. 104
+e, in generale, a quelli delle categorie più deboli e con fragilità che necessitano di supporto
+psicologico, promuovendo un apprendimento integrato degli studenti che tenga conto di vari
+aspetti, non solo intellettivi ma soprattutto sociali ed emotivi. La scuola si impegna infatti a diventare
+un ambiente d’apprendimento più rispondente agli stili cognitivi, emotivi e sociali degli studenti, un
+ambiente di apprendimento che sappia favorire quel bisogno di identità, di appartenenza, di
+realizzazione personale che è la base su cui si costruisce il confronto, la riflessione comune e la
+solidarietà.
+Vincoli:
+La popolazione scolastica dell'Istituto proviene da Soverato, dai paesi limitrofi e una parte dai paesi
+del Basso Jonio. Il contesto socioeconomico-culturale di provenienza e' medio, costituito da famiglie
+di commercianti, di piccoli proprietari terrieri, di professionisti del terziario, di dipendenti, operai e
+braccianti agricoli, lavoratori edili. Molti sono gli allievi che vivono situazioni di disagio economicosociale e si registrano diverse difficoltà all'interno dei contesti familiari. Il territorio, vista la scarsa
+presenza di aziende, non è in grado di assicurare lavoro ai nuovi diplomati e ciò condiziona la
+possibilità di permanenza dei giovani sul territorio. Tale situazione incide sulla vita scolastica di molti
+studenti. La precaria situazione economica si ripercuote sull'acquisto dei sussidi didattici e
+sull'abbonamento ai mezzi di trasporto pubblici. Attenti a queste problematiche, il nostro Istituto
+offre, ormai da diversi anni, in comodato d'uso i libri scolastici ed ha istituito borse di studio per gli
+studenti meno abbienti.
+
+Territorio e capitale sociale
+Opportunità:
+La scuola può contare su un contesto socio-istituzionale in cui sono presenti servizi di supporto quali
+ASP, servizi socioassistenziali, centri di aggregazione sociale, associazioni di vario genere presenti sul
+territorio, utili relazioni tra reti scolastiche. Molto stretta risulta la collaborazione con l'Ente Comune
+che partecipa alle iniziative scolastiche con atteggiamento sempre disponibile in tutte le attività
+organizzate dalla scuola. Per combattere la dispersione scolastica e potenziare le eccellenze vengono
+stipulati accordi di rete e protocolli di intesa con altre scuole del territorio e con le Università
+calabresi (UMG e UNICAL), nell'intento di promuovere progetti, iniziative formative e azioni di
+orientamento. Stretta è la collaborazione anche con le Forze dell'ordine e con Federazioni,
+Associazioni ed Enti territoriali con cui vengono spesso organizzati convegni e seminari su temi
+sociali promossi dal MIM, come ad esempio l'educazione stradale, l'educazione finanziaria ed
+educazione civica (in accordo con le nuove Linee guida emanate con DM n. 135 del 07/09/2024).
+Vincoli:
+Uno dei vincoli dell'istituto è la pendolarità degli studenti, molti dei quali provengono da paesi
+distanti, che non sono adeguatamente collegati con la cittadina di Soverato e hanno un numero di
+corse limitato. Questo, a volte, penalizza la permanenza degli allievi nell'istituto anche nelle ore
+pomeridiane.
+
+Risorse economiche e materiali
+Circa lo stato dell'edilizia scolastica si può osservare positivamente che la Scuola e' in possesso delle
+certificazioni di agibilità e di prevenzioni incendi unitamente alla dotazione di scale di sicurezza, di
+ascensori per il superamento delle barriere architettoniche. L'Istituto è dotato di reti locali cablate e
+wireless che permettono la trasmissione dati di carattere didattico ed amministrativo.
+Tutte le aule della scuola sono dotate di Digital Board di ultima generazione che
+permettono metodologie di didattica attiva e collaborativa che si configurano oggi come
+particolarmente efficaci per motivare gli studenti alla conoscenza, per promuovere l'apprendimento,
+qualificandolo, e per contrastare i rischi di emarginazione degli studenti in situazioni di fragilità.
+Inoltre, convinti che la tecnologia, se utilizzata in modo responsabile e corretto, fornisca agli studenti
+opportunità innovative per incrementare la loro cultura, il nostro Istituto, nell'intento di favorire tale
+processo garantendone la sicurezza attraverso una modalità di interazione che contribuisca al
+miglioramento dell’ambiente educativo e di apprendimento, ha installato, grazie al Progetto
+Collaborative Classrooms realizzato a valere sui fondi PNRR Piano Scuola 4.0, diciassette
+nuovi ambienti di apprendimento innovativi. Si tratta di diciassette unità mobili, che hanno le
+funzioni di contenimento, protezione e ricarica di Chromebook, a disposizione di docenti e studenti,
+sostenuti da una copertura Wi-Fi in tutte le aule e questo consentirà di poter lavorare con una
+didattica digitale e multimediale senza doversi necessariamente recare nei laboratori d’informatica.
+La dotazione è arricchita da una serie di laboratori per una formazione e una didattica diversificata e
+innovativa fruibili dai docenti, studenti e personale ATA (laboratori di Costruzioni, Topografia,
+Scienze, Fisica, Informatica, Robotica e Telecomunicazioni, Sistemi automatici, Elettronica ed
+Elettrotecnica, CAD, Multimediale, Linguistico, Matematica, EduGreen).
+Nuovi laboratori, necessari ad implementare le professioni del futuro e connesse agli attuali indirizzi
+presenti nella nostra scuola, sono stati progettati e allestiti nel precedente anno scolastico:
+il laboratorio di Grafica e Comunicazione , il Laboratorio di Robotica ed Automazione e il laboratorio
+AR/VR.
+L’obiettivo è quello di sviluppare nuove competenze interconnesse in modo strategico, per
+rispondere alla richiesta di solide abilità tecnico-scientifiche, affiancate da quelle soft skill che
+sottendono all’uso del digitale e che, inevitabilmente, saranno alla base delle professioni digitali del
+futuro. In particolare si intende potenziare la didattica quotidiana sviluppando soluzioni che,
+ponendo al centro l'alunno, costituiscano un'innovazione pur mantenendo una certa continuità con
+le modalità sinora adottate. Si vuole così aumentare la consapevolezza dello studente rendendolo
+protagonista attraverso il "fare", partendo proprio dalla geometria dell'ambiente stesso di
+apprendimento inteso come aula e come scuola, investendo così, l’intero processo cognitivo e
+comportamentale, per realizzare azioni pedagogiche in grado di promuovere processi formativi
+personalizzati.
+Di grande utilità è l'importo del contributo delle famiglie, seppure contenuto, che consente di poter
+gestire e apportare miglioramenti in vari settori della scuola, anche se risulta molto difficile riuscire
+ad assicurare l'effettivo pagamento da parte di tutti gli alunni. Ciò in parte, per il contesto
+socioeconomico di provenienza, in parte per il carattere di volontarietà del contributo stesso.
+
+Risorse professionali
+È imprescindibile comprendere quanto sia importante il ruolo delle risorse umane nel determinare il
+successo della scuola, un valore aggiunto che permette di raggiungere gli obiettivi, i traguardi attesi
+ed i livelli di apprendimento degli studenti. L'organizzazione del personale scolastico è finalizzata al
+miglioramento della qualità dei servizi offerti ed è importante tenere in considerazione le
+competenze specifiche in modo da promuovere occasioni per arricchire la formazione, all’insegna
+della valorizzazione delle professionalità. L'aggiornamento e la formazione di tutto il personale
+scolastico è nella mission dell' Istituto e per questo all'inizio di ogni anno scolastico viene fatta una
+rilevazione dei bisogni formativi, in modo da fornire gli strumenti necessari per aumentare le
+competenze del personale scolastico. Fondamentale è la costruzione di uno staff di riferimento, che
+possa coadiuvare il Dirigente scolastico, contenente figure legate a settori strategici dell’agire della
+scuola. Molto utile è incrementare le occasioni di incontro/confronto con il personale scolastico per
+creare una vera comunità in cui ognuno possa operare responsabilmente e consapevolmente.
+
+FINALITÀ DEI PERCORSI DI ISTRUZIONE PER ADULTI
+Obiettivo primario dell’Istruzione degli Adulti è quello di favorire la formazione della persona, del
+cittadino e del lavoratore nell’ottica di una qualificazione di giovani e adulti verso ampliati sbocchi
+lavorativi e di una riqualificazione di coloro che vogliano o debbano ripensare e ricomporre la
+propria identità professionale. Il corso è orientato in questo senso e a tale consapevolezza sono
+improntati gli interventi didattici e formativi messi in atto dai docenti impegnati sul campo. Questa
+impostazione nei percorsi di formazione degli adulti risponde sia alle aspettative dell’utenza sia a
+direttive ministeriali e comunitarie, con un’enfasi sostanziale sulle materie professionalizzanti oltre
+che sul livello qualitativo e innovativo delle metodologie di insegnamento delle discipline
+contemplate dal curricolo. La formazione del soggetto, a livello personale, professionale e rispetto ai
+suoi ruoli sociali, è un continuum che si distribuisce lungo tutta l’esistenza ed è la base per
+l’acquisizione di competenze aggiornate e spendibili nella vita attiva e occupazionale. In questa
+prospettiva la formazione culturale di base e le materie che ne sono portatrici assumono un ruolo
+delicato di supporto funzionale e strategico rispetto all’obiettivo principale: quello dell’acquisizione di
+competenze tecnico specialistiche spendibili nel mondo del lavoro e di skills flessibili e trasversali
+capaci di qualificare e valorizzare le risorse umane nel quadro di politiche attive per l’inserimento e il
+reinserimento della persona nel ciclo produttivo Il diploma che si ottiene alla fine del percorso ha la
+stessa validità del diploma dei corsi diurni e in quanto tale permette la partecipazione a concorsi
+pubblici, l’accesso all’università, ai corsi postdiploma.
+
+Utenza del Percorso di Istruzione per Adulti
+L’impegno dell’istruzione degli adulti costituisce un investimento sul capitale umano in quanto
+risorsa centrale per la crescita economica e lo sviluppo sociale del territorio. Il target dei corsi per
+adulti è andato modificandosi negli anni in parallelo a una continua e profonda mutazione del
+mondo del lavoro e delle attività umane. Progressivamente nuovi corsisti, si affiancano allo
+studente-lavoratore tradizionale, occupato stabilmente e in cerca di un’occasione di avanzamento e
+di sviluppo delle proprie possibilità di carriera. Il soggetto che oggi si avvicina a un corso di studi per
+adulti ha una fisionomia variegata, di cui occorre prendere atto per poter costruire un’offerta adatta
+alle nuove esigenze socio-economiche del singolo e del territorio. I nostri corsisti sono soprattutto
+lavoratori che entrati nel mondo del lavoro con una bassa scolarità, e quindi ai livelli meno
+qualificanti, sono prevalentemente coinvolti nei nuovi processi di flessibilità del lavoro in due forme.
+Gli studenti con occupazione sono generalmente motivati ed esigenti. Per questi studenti, che
+spesso per motivi lavorativi non riescono a frequentare regolarmente le lezioni, è essenziale la
+costruzione di un percorso individualizzato. Si tratta di persone in cerca di lavoro o che lo vogliono
+cambiare come, per esempio, le donne uscite volontariamente dal ciclo produttivo per motivi di
+famiglia e che tentano il reinserimento quando i figli sono grandi, fronteggiando però il deficit di
+conoscenze culturali, di aggiornamento professionale e di inserimento sociale che la scelta della
+famiglia ha comportato. Solitamente sono persone motivate ed esigenti, pur partendo da un
+modesto livello di pre-conoscenze; oltre all’aspetto professionale dei corsi, puntano, infatti,ad un
+recupero culturale più ad ampio spettro e generico i disoccupati di lungo corso che non riescono ad
+inserirsi nel ciclo produttivo poiché scontano lacune formative pregresse, difficoltà espressive o
+trascorsi di emarginazione. Ci sono poi studenti che hanno abbandonato il sistema scolastico in
+seguito ad una serie di insuccessi, che si sentono ancora “studenti” pur avendo sviluppato una certa
+disaffezione e scarsa motivazione allo studio. Sono giovani adulti che necessitano di un lavoro di
+rimotivazione che permetta di intraprendere un percorso nuovo, di riscatto e di scoperta delle
+proprie risorse e talenti per collocarsi in modo consapevole a livello lavorativo e sociale. Il corso
+serale assume una funzione fondamentale nel percorso di riconversione o di ripresa degli studi da
+parte di questi soggetti, che, per ragioni diverse, avendo interrotto il proprio percorso scolastico,
+necessitano di un completamento della propria formazione. A questa categoria generalmente
+appartengono: giovani-adulti con competenze modeste, che mirano all’acquisizione di una nuova
+professionalità, spendibile nell’attuale mercato del lavoro; adulti che cercano nella frequenza di corsi
+serali la riconversione o la prosecuzione e completamento di un percorso scolastico specialistico già
+affrontato nel paese di origine, non sempre riconosciuto in Italia; cittadini attivi, ovvero persone che
+nella società odierna sono chiamate ad adeguare costantemente le loro competenze culturali,
+sociali, professionali rispetto alle mutevoli condizioni ed esigenze del vivere civile. La lunga
+aspettativa di vita e l’innalzamento dell’età pensionabile pongono le basi per una interpretazione
+sempre più dinamica dell’essere “cittadino attivo” in ragione di fatti non solo demografici ma sociali e
+persino psicologici. L’esperienza lavorativa già maturata, insieme alla possibilità di frequentare
+l’indirizzo scelto, permette a queste persone di disegnare nuove traiettorie più consapevoli e di
+indirizzare la propria iniziativa nel senso di una crescita personale, oltre che di realizzare vocazioni e
+aspirazioni, che spesso hanno dovuto trascurare. Sono soggetti capaci di rimettersi in gioco sia a
+livello occupazionale, che personale e sociale. Generalmente sono corsisti motivati ed interessati a
+un completamento della propria formazione nell’ambito dell’indirizzo prescelto.
+
+
+Priorità strategiche e priorità finalizzate al
+miglioramento degli esiti
+
+Aspetti Generali
+All' inizio del nuovo triennio 2025-2028, le scuole saranno impegnate nella rendicontazione dei
+risultati raggiunti nello scorso triennio. La rendicontazione è infatti propedeutica ad un nuovo
+processo di autovalutazione che porta all’individuazione delle priorità e dei connessi traguardi
+raggiunti al termine del precedente triennio 2022-2025, tramite lo svolgimento di azioni di
+miglioramento indicate nel Piano di miglioramento (PdM) all’interno del PTOF. Si tratta di un
+momento di significativa portata nell’ambito della progettualità strategica delle scuole, cui va
+riservata la giusta attenzione. L’aggiornamento dei documenti strategici avviene sulla scorta delle
+scelte autonome delle scuole in base alle nuove analisi, e per rispondere a richieste provenienti dalla
+normativa, che spesso esige di esplicitare contenuti specifici all’interno dei documenti.
+L’attuazione delle misure collegate alle riforme e alle linee di investimento del PNRR, che nel triennio
+2022-2025 vede le scuole impegnate nella realizzazione di una ricca progettualità, richiede
+un’attenzione particolare. Come è già stato evidenziato con la nota DGOSVI n. 23940 del 19
+settembre 2023 in riferimento alle linee di investimento 1.4 Piano di riduzione dei divari territoriali e
+3.2 Piano “Scuola 4.0 ”, si suggeriva alle istituzioni scolastiche coinvolte di:
+• individuare nell’ultima sezione del RAV priorità di miglioramento e connessi traguardi collegati
+alle finalità degli interventi sostenuti dall’investimento 1.4 del PNRR;
+• definire nel PdM i percorsi e le azioni da attuare per il raggiungimento delle priorità
+individuate, ponendo particolare attenzione al collegamento fra gli obiettivi previsti nel PNRR,
+le azioni finanziate con il D.M. n. 170/2022, nonché le azioni previste nell’ambito del Piano
+Scuola 4.0;
+• riportare nel PTOF le iniziative curriculari ed extracurriculari e le strategie didattiche e
+organizzative funzionali al raggiungimento degli obiettivi dei progetti presentati nell’ambito del
+PNRR.
+L’elaborazione del PTOF riguarda le scelte strategiche a partire dal recepimento di eventuali
+modifiche alle priorità desunte dal RAV e alla regolazione del PdM compiendo una revisione degli
+obiettivi formativi individuati come prioritari per orientare la progettualità alla fine di questo
+triennio. Sono riportate nel PTOF i progetti PNRR e tutte le progettualità della scuola. Le priorità su
+cui la scuola ha deciso di concentrarsi, così come emerso dal RAV, riguardano gli esiti scolastici
+raggiunti dagli alunni in merito ai risultati scolastici, ai risultati delle prove INVALSI e alle competenze
+di cittadinanza attiva. Tutte le priorità sono finalizzate a migliorare il successo formativo degli alunni
+e l'acquisizione di competenze funzionali al contesto territoriale di riferimento e ad un proficuo
+inserimento nel mondo del lavoro.
+Per quanto riguarda l’Offerta formativa è stato richiesto l’inserimento della progettazione dei moduli
+di orientamento formativo nella sezione specifica del PTOF con una sezione specifica
+sull’orientamento. L'attenzione è rivolta anche alle Linee guida relative all’insegnamento delle
+discipline STEM (24 ottobre 2023), il Piano Nazionale Scuola Digitale e le Linee guida per
+l’insegnamento trasversale dell’educazione civica.
+L’Istituto svolge una funzione formativa oltre che informativa per l’acquisizione di comportamenti sui
+principi di eticità, solidarietà, responsabilità e partecipazione, la cui esplicitazione si traduce in:
+• partecipazione di tutti i soggetti alla vita della scuola con pari dignità;
+• attivazione di strategie per la rimozione degli ostacoli di natura economica, sociale e culturale
+che impediscono la piena attuazione del diritto allo studio;
+• promozione della cultura della legalità, delle pari opportunità e della valorizzazione delle
+differenze;
+• libertà d’insegnamento strettamente legata alla libertà di apprendimento, quest’ultima
+garantita da un insegnamento proposto nei termini di una responsabile ed aggiornata
+competenza professionale, esercitata nel rispetto della personalità degli alunni e del loro
+sviluppo;
+• libertà d’insegnamento come autonomia didattica e come espressione culturale con
+riferimento alle scelte didattiche ed educative fissate dagli Organi Collegiali;
+• valorizzazione del ruolo dello studente promuovendo la sua partecipazione alla vita dell’Istituto
+in termini di programmazione e di progettazione delle attività perché sia sempre consapevole
+del proprio processo formativo;
+• valorizzazione del ruolo dello studente inteso come “utente” del servizio, che deve vedere
+soddisfatti i propri bisogni, interessi e aspettative;
+• valutazione del servizio, al fine di apportare ogni possibile correttivo per un risultato migliore
+della didattica, delle condizioni ambientali e del servizio considerato nella sua accezione
+completa e nelle sue parti specifiche.
+
+Insegnamenti attivati
+Gli insegnamenti attivati, nel nostro Istituto, sono :
+• COSTRUZIONI, AMBIENTE E TERRITORIO
+• ELETTRONICA ED ELETTROTECNICA ART. ELETTROTECNICA
+• GRAFICA E COMUNICAZIONE
+• INFORMATICA E TELECOMUNICAZIONI ART. INFORMATICA
+• INFORMATICA E TELECOMUNICAZIONI - CORSO QUADRIENNALE
+• PERCORSI DI ISTRUZIONE PER ADULTI (ex SERALE ) - SECONDO E TERZO PERIODO DIDATTICO
+- ELETTRONICA ED ELETTROTECNICA
+Le competenze comuni a tutti i percorsi di istruzione tecnica (ALLEGATO A al DPR 88/2010- Profilo
+educativo, culturale e professionale dello studente a conclusione del secondo ciclo del sistema
+educativo di istruzione e formazione per gli Istituti Tecnici) sono:
+• agire in base ad un sistema di valori coerenti con i principi della Costituzione, a partire dai
+quali saper valutare fatti e ispirare i propri comportamenti personali e sociali;
+• utilizzare gli strumenti culturali e metodologici acquisiti per porsi con atteggiamento razionale,
+critico e responsabile di fronte alla realtà, ai suoi fenomeni e ai suoi problemi, anche ai fini
+dell’apprendimento permanente; • padroneggiare il patrimonio lessicale ed espressivo della lingua italiana secondo le esigenze
+comunicative nei vari contesti: sociali, culturali, scientifici, economici, tecnologici; • riconoscere le linee essenziali della storia delle idee, della cultura, della letteratura, delle arti e
+orientarsi agevolmente fra testi e autori fondamentali, con riferimento soprattutto a tematiche
+di tipo scientifico, tecnologico ed economico; • riconoscere gli aspetti geografici, ecologici, territoriali, dell’ambiente naturale ed antropico, le
+connessioni con le strutture demografiche, economiche, sociali, culturali e le trasformazioni
+intervenute nel corso del tempo; • stabilire collegamenti tra le tradizioni culturali locali, nazionali ed internazionali sia in una
+prospettiva interculturale sia ai fini della mobilità di studio e di lavoro; • utilizzare i linguaggi settoriali delle lingue straniere previste dai percorsi di studio per interagire
+in diversi ambiti e contesti di studio e di lavoro;
+• riconoscere il valore e le potenzialità dei beni artistici e ambientali, per una loro corretta
+fruizione e valorizzazione; • individuare ed utilizzare le moderne forme di comunicazione visiva e multimediale, anche con
+riferimento alle strategie espressive e agli strumenti tecnici della comunicazione in rete; • riconoscere gli aspetti comunicativi, culturali e relazionali dell’espressività corporea ed
+esercitare in modo efficace la pratica sportiva per il benessere individuale e collettivo; • collocare le scoperte scientifiche e le innovazioni tecnologiche in una dimensione
+storicoculturale ed etica, nella consapevolezza della storicità dei saperi; • utilizzare modelli appropriati per investigare su fenomeni e interpretare dati sperimentali; • riconoscere, nei diversi campi disciplinari studiati, i criteri scientifici di affidabilità delle
+conoscenze e delle conclusioni che vi afferiscono;
+• padroneggiare il linguaggio formale e i procedimenti dimostrativi della matematica; possedere
+gli strumenti matematici, statistici e del calcolo delle probabilità necessari per la comprensione
+delle discipline scientifiche e per poter operare nel campo delle scienze applicate; • collocare il pensiero matematico e scientifico nei grandi temi dello sviluppo della storia delle
+idee, della cultura, delle scoperte scientifiche e delle invenzioni tecnologiche; • utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento
+disciplinare; • padroneggiare l’uso di strumenti tecnologici con particolare attenzione alla sicurezza nei luoghi
+di vita e di lavoro, alla tutela della persona, dell’ambiente e del territorio; • utilizzare, in contesti di ricerca applicata, procedure e tecniche per trovare soluzioni innovative
+e migliorative, in relazione ai campi di propria competenza; • cogliere l’importanza dell’orientamento al risultato, del lavoro per obiettivi e della necessità di
+assumere responsabilità nel rispetto dell’etica e della deontologia professionale; • saper interpretare il proprio autonomo ruolo nel lavoro di gruppo; • analizzare criticamente il contributo apportato dalla scienza e dalla tecnologia allo sviluppo dei
+saperi e dei valori, al cambiamento delle condizioni di vita e dei modi di fruizione 3culturale; • essere consapevole del valore sociale della propria attività, partecipando attivamente alla vita
+civile e culturale a livello locale, nazionale e comunitario.
+
+COSTRUZIONI, AMBIENTE E TERRITORIO
+L’indirizzo “Costruzioni, ambiente e territorio” (Linee guida Istituti Tecnici emanate con D.P.R. 15
+marzo 2010) integra competenze nel campo dei materiali, delle macchine e dei dispositivi utilizzati
+nelle industrie delle costruzioni, nell’impiego degli strumenti per il rilievo, nell’uso degli strumenti
+informatici per la rappresentazione grafica e per il calcolo, nella valutazione tecnica ed economica
+dei beni privati e pubblici e nell’utilizzo ottimale delle risorse ambientali. Approfondisce competenze
+grafiche e progettuali in campo edilizio, nell’organizzazione del cantiere, nella gestione degli impianti
+e nel rilievo topografico.
+Competenze specifiche di indirizzo:
+• selezionare i materiali da costruzione in rapporto al loro impiego e alle modalità di
+lavorazione;
+• rilevare il territorio, le aree libere e i manufatti, scegliendo le metodologie e le strumentazioni
+più adeguate ed elaborare i dati ottenuti;
+• applicare le metodologie della progettazione, valutazione e realizzazione di costruzioni e
+manufatti di modeste entità, in zone non sismiche, intervenendo anche nelle problematiche
+connesse al risparmio energetico nell'edilizia;
+• utilizzare gli strumenti idonei per la restituzione grafica di progetti e di rilievi;
+• tutelare, salvaguardare e valorizzare le risorse del territorio e dell'ambiente;
+• compiere operazioni di estimo in ambito privato e pubblico, limitatamente all'edilizia e al
+territorio;
+• gestire la manutenzione ordinaria e l'esercizio di organismi edilizi;
+• organizzare e condurre i cantieri mobili nel rispetto delle normative sulla sicurezza
+Il diplomato può operare, come collaboratore di livello intermedio, presso istituzioni, enti pubblici e
+privati di certificazione ambientale e patrimoniale, strutture di servizi in cui sono richieste
+competenze tecniche e operative, studi professionali specifici nel settore del rilievo, progettuale e
+gestionale, uffici tecnici e commerciali di aziende del settore edilizio, agenzie di intermediazione
+immobiliare, studi notarili, cantieri edili, nei ruoli di:
+• tecnico delle costruzioni civili e professioni assimilate
+• progettista esecutivo nei centri di taglio dell’industria del legno
+• rilevatore e disegnatore di prospezioni e progetti
+• operatore CAD
+• tecnico della gestione di cantieri edili
+• tecnico della sicurezza nei cantieri edili
+• tecnico del controllo ambientale
+• tecnico per la valutazione del risparmio energetico nelle costruzioni edili
+• assistente tecnico presso studi notarili e strutture di servizio Inoltre può svolgere attività
+professionale autonoma, secondo quanto previsto dalle norme vigenti, come:
+• consulente per il controllo ambientale, per la prevenzione degli infortuni e per il recupero
+dell'ambiente presso le imprese e i cantieri di lavoro all'aperto
+• consulente per studi notarili, tribunali, banche, assicurazioni, agenzie immobiliari
+• titolare di agenzie di intermediazione immobiliare
+• titolare di piccole imprese di costruzioni
+• amministratore di immobili
+
+ELETTRONICA ED ELETTROTECNICA
+L’indirizzo “Elettronica ed Elettrotecnica” (Linee guida Istituti Tecnici emanate con D.P.R. 15 marzo
+2010) integra competenze scientifiche e tecnologiche nel campo dei materiali, della progettazione,
+costruzione e collaudo, nei contesti produttivi di interesse, relativamente ai sistemi elettrici ed
+elettronici, agli impianti elettrici e ai sistemi di automazione.
+Competenze specifiche di indirizzo:
+• applicare nello studio e nella progettazione di impianti e di apparecchiature elettriche ed
+elettroniche i procedimenti dell'elettrotecnica e dell'elettronica;
+• utilizzare la strumentazione di laboratorio e di settore e applicare i metodi di misura per
+effettuare verifiche, controlli e collaudi;
+• analizzare tipologie e caratteristiche tecniche delle macchine elettriche e delle apparecchiature
+elettroniche, con riferimento ai criteri di scelta per la loro utilizzazione e interfacciamento;
+• gestire progetti;
+• gestire processi produttivi correlati a funzioni aziendali;
+• utilizzare linguaggi di programmazione, di diversi livelli, riferiti ad ambiti specifici di
+applicazione;
+• analizzare il funzionamento, progettare e implementare sistemi automatici.
+
+Il diplomato può operare, come collaboratore di livello intermedio, in aziende o enti territoriali del
+settore della meccanica, meccatronica, robotica e automazione industriale, con ruoli quali:
+• installatore e manutentore di impianti automatizzati civili e industriali
+• sviluppatore di software di comando e di controllo
+• tecnico elettronico per lo sviluppo di sistemi embedded
+• tecnico di laboratorio elettronico e automazione industriale
+• tecnico di impianti di sollevamento di persone e carichi
+• tecnico commerciale e dei servizi postvendita di impianti e apparecchiature per l’automazione
+industriale
+• installatore e manutentore di impianti per la sicurezza elettronica (antintrusione,
+videosorveglianza, antincendio, domotica, ecc.)
+• programmatore di PLC
+• progettista elettrotecnico- elettronico Inoltre può svolgere attività professionale autonoma,
+secondo quanto previsto dalle norme vigenti, come:
+• consulente per aziende piccole e medie del settore elettronico, meccatronico, energetico, beni
+strumentali
+• titolare di aziende impiantistiche di settore
+• titolare di impresa commerciale di settore
+
+GRAFICA E COMUNICAZIONE
+L’indirizzo “Grafica e Comunicazione” (Linee guida Istituti Tecnici emanate con D.P.R. 15 marzo 2010)
+integra competenze specifiche nel campo della comunicazione interpersonale e di massa, con
+particolare riferimento all’uso delle tecnologie per produrla e approfondisce i processi produttivi che
+caratterizzano il settore della grafica, dell’editoria, della stampa e i servizi ad esso collegati, nelle fasi
+dalla progettazione alla pianificazione dell’intero ciclo di lavorazione dei prodotti.
+Competenze specifiche di indirizzo:
+scegliendo strumenti e materiali in relazione ai contesti d'uso e alle tecniche di produzione;
+• utilizzare pacchetti informatici dedicati;
+• progettare e gestire la comunicazione grafica e multimediale attraverso l'uso di diversi
+supporti;
+• programmare ed eseguire le operazioni inerenti le diverse fasi dei processi produttivi;
+• realizzare i supporti cartacei necessari alle diverse forme di comunicazione;
+• realizzare prodotti multimediali;
+• progettare, realizzare e pubblicare contenuti per il web;
+• gestire progetti e processi secondo le procedure e gli standard previsti dai sistemi aziendali di
+gestione della qualità e della sicurezza;
+• analizzare e monitorare le esigenze del mercato dei settori di riferimento.
+Il diplomato può operare, come collaboratore di livello intermedio, in enti, aziende, agenzie e studi
+tecnici del settore della comunicazione grafica, multimediale e digitale e in realtà organizzative
+orientate alla multicanalità e alle nuove tecnologie, oltre che al marketing e ai servizi di impresa, con
+ruoli quali:
+• tecnico per la programmazione ed esecuzione di operazioni di premedia/prestampa, stampa e
+post-stampa (convenzionale e digitale);
+• tecnico per la realizzazione di prodotti multimediali e multicanale;
+• tecnico per la realizzazione di supporti fotografici e audiovisivi
+• tecnico per la realizzazione e gestione di sistemi software di comunicazione in rete (web, social
+network…)
+• tecnico per la realizzazione e gestione di applicazioni per “mobile devices” e per tecnologie
+indossabili
+• tecnico per la realizzazione di modelli e animazioni tridimensionali e progetti per la stampa 3D
+• tecnico per la produzione di oggetti di carta e cartone o supporti speciali (cartotecnica)
+• designer in comunicazione visiva, industriale e di prodotti
+• Interactive Media Designer (AFC), operatore pubblicitario (AFC), poligrafo (AFC)
+
+INFORMATICA E TELECOMUNICAZIONI
+
+L’indirizzo “Informatica e Telecomunicazioni” (Linee guida Istituti Tecnici emanate con D.P.R. 15
+marzo 2010) integra competenze scientifiche e tecnologiche nel campo dei sistemi informatici,
+dell’elaborazione delle informazioni, delle applicazioni e tecnologie Web, delle reti e degli apparati di
+comunicazione
+Competenze specifiche di indirizzo:
+• scegliere dispositivi e strumenti in base alle loro caratteristiche funzionali;
+• descrivere e comparare il funzionamento di dispositivi e strumenti elettronici e di
+telecomunicazione;
+• gestire progetti secondo le procedure e gli standard previsti dai sistemi aziendali di gestione
+della qualità e della sicurezza;
+• gestire processi produttivi correlati a funzioni aziendali;
+• configurare, installare e gestire sistemi di elaborazione dati e reti;
+• sviluppare applicazioni informatiche per reti locali o servizi a distanza.
+Il diplomato può operare, come collaboratore di livello intermedio, in ogni contesto professionale di
+aziende pubbliche o private, software house, enti pubblici del settore IT o statistico o di altri settori
+produttivi inclusi quelli commerciali, con ruoli quali:
+• tecnico informatico
+• tecnico programmatore
+• sviluppatore di applicazioni per il web
+• sviluppatore di applicazioni multimediali
+• tecnico gestore di data base
+• tecnico gestore di reti e di sistemi telematici
+• addetto al customer care
+• addetto alla manutenzione hardware e software
+• addetto alla sicurezza informatica Inoltre può svolgere attività professionale autonoma, secondo
+quanto previsto dalle norme vigenti, come:
+• consulente informatico
+• titolare di imprese commerciali di assistenza tecnica e rivendita di materiale informatico
+• sviluppatore di applicazioni per il web
+Quadri orari nell'allegato alla sezione.
+
+INFORMATICA E TELECOMUNICAZIONI - CORSO QUADRIENNALE
+I percorsi quadriennali sperimentali assicurano l’insegnamento di tutte le discipline previste
+dall’indirizzo di studi di riferimento, compreso l’insegnamento trasversale dell’Educazione civica,
+facendo ricorso alla flessibilità didattica e organizzativa consentita dall’autonomia delle istituzioni
+scolastiche, alla didattica laboratoriale, all’adozione di metodologie innovative, alla didattica digitale
+e all’utilizzo di tutte le risorse strumentali e professionali disponibili nell’organico dell’autonomia.
+Il D.M. di riferimento normativo, concernente il progetto nazionale di sperimentazione relativo
+all’istituzione della filiera formativa tecnologico-professionale , è quello del 7 dicembre 2023 n. 240,
+nel quale sono descritte le caratteristiche della sperimentazione, l’attivazione e la durata della
+sperimentazione.
+Il percorso quadriennale darà la possibilità agli studenti di affacciarsi all’esperienza universitaria e al
+lavoro da cittadini europei e di avere un approccio open mind, flessibile, proattivo ed orientato al
+cambiamento e all’innovazione.
+In merito al sistema di accesso ai percorsi dell’istruzione terziaria essi saranno garantiti dall’ITS
+Academy Cadmo e da un peculiare impianto di orientamento al mercato del lavoro realizzato
+nell’ambito del percorso. Il sistema è assicurato attraverso il coinvolgimento di un organismo
+accreditato all’erogazione di Servizi al lavoro da parte della Regione Calabria e indirizzato ad offrire
+agli utenti un ventaglio di opzioni post diploma partendo dall’analisi delle competenze dell’utente.
+L’offerta formativa integrata complessiva è arricchita dalla presenza dei rappresentanti del mondo
+delle imprese. La partecipazione diretta è assicurata attraverso il coinvolgimento sinergico dei singoli
+network (Scuola-imprese, ITS Academy-imprese, Formazione-imprese, Servizi al lavoro-imprese). Ne
+consegue il potenziamento delle ore dedicate ai PCTO (rafforzati anche dall’opportunità di inserire
+percorsi sperimentali per l’arricchimento delle cosiddette “soft skills”) e l’avvio dei suddetti percorsi
+già dal secondo anno di studio con il contestuale ampliamento delle aziende per le opportunità di
+stage ed il rafforzamento delle opzioni laboratoriali delle imprese.
+
+ELETTRONICA ED ELETTROTECNICA - Percorsi di Istruzione per Adulti (ex serale) - SECONDO E TERZO
+
+PERIODO
+I corsi prevedono la possibilità di conseguire il Diploma in ELETTRONICA ED ELETTROTECNICA
+attraverso un percorso che normalmente ha una durata di tre anni (3°, 4° e 5° anno) e comprende
+gli ultimi due dei tre periodi didattici previsti dalla normativa relativa ai corsi di Istruzione per Adulti.
+L’ammissione al 3° anno avviene previo accertamento delle competenze acquisite dallo studente
+relative al primo biennio di istituto superiore, per il quale non è prevista l’offerta formativa. Tale
+accertamento è, di regola, automatico nel caso sia presentata la pagella che attesti il superamento
+del secondo anno in un istituto superiore. Se in possesso del diploma di terza media l’accertamento
+avviene previo superamento di un esame per la certificazione delle singole competenze di cui sopra,
+per le quali non è stata fornita opportuna documentazione (esame di idoneità).
+Iscrizione
+L'iscrizione degli studenti al corso serale comporta obbligatoriamente il riconoscimento e la
+valutazione della loro situazione formativa, documentata all'atto dell'iscrizione, da parte del
+Consiglio di Classe al fine di predisporre il patto formativo individuale.
+Le iscrizioni presentate ad anno scolastico inoltrato vengono considerate, caso per caso, dal
+Dirigente. La data per la presentazione delle domande è indicata sull’annuale Circolare Ministeriale.
+Frequenza
+La frequenza minima per la validità del periodo didattico è, di norma, pari almeno al 75% delle ore
+previste, con eventuali deroghe debitamente documentate per motivi di salute, di lavoro o personali
+fino ad un massimo del 5%
+E’ auspicabile la frequenza regolare in quanto il contatto diretto e quotidiano con i docenti permette
+di essere guidati nella comprensione e nella rielaborazione di quanto proposto in classe e nella
+impostazione di un corretto metodo di studio. Con una metodologia appropriata per studenti adulti
+e lavoratori, l'impegno domestico richiesto è ridotto al minimo.
+
+CURRICOLO DI SCUOLA
+L’Istituto Tecnico Tecnologico “G. Malafarina” fin dalla nascita, 1987, ha dato risposte culturali al
+territorio di Soverato che si avviava verso un sostanziale mutamento sociale ed economico. L’Istituto
+è nato con lo scopo di formare i giovani con specifiche competenze tecnico professionali
+immediatamente spendibili nel mondo del lavoro a carattere locale, nazionale e internazionale.
+L’obiettivo principale è sempre stato quello di creare cittadini consapevoli fornendo loro le
+conoscenze e i necessari strumenti metodologici e critici. Il Curricolo è il cuore didattico del PTOF in
+quanto presenta le scelte operate dai docenti ed esplicita i risultati dell'apprendimento in termini di
+competenze. Esso si propone di promuovere il raccordo tra scuola e mondo del lavoro e creare
+continuità con la scuola secondaria di primo grado. È costituito da un curricolo di base inerente alle
+discipline, opportunamente arricchito dal curricolo integrato, costituito dai progetti curricolari ed
+extracurricolari. Tra le principali opportunità formative sicuramente hanno grande rilevanza i
+laboratori presenti che sono stati arricchiti con arredi e strumentazioni di ultima generazione.
+Inoltre, tre nuovi laboratori sono stati messi in funzione negli a.s. 2023/24 e 2024/25.
+L'Istituto è impegnato nel Programma Erasmus+ dell’Unione europea nei settori dell’Istruzione, della
+Formazione, della Gioventù e dello Sport, per il periodo 2021-2027 e considera la mobilità
+studentesca transnazionale, con periodi variabili di soggiorno all’estero fino ad un intero anno
+scolastico, un’esperienza dall’alto valore educativo e formativo, che può diventare parte integrante
+del percorso di istruzione e formazione di ogni studente. Sono previsti anche percorsi per le
+competenze trasversali e l'orientamento (PCTO) all'estero-Global Perspectives in Technical
+Education progettato per fornire agli studenti del triennio competenze nei settori dell'informatica,
+della progettazione grafica, dell'elettronica e di costruzioni, ambiente e territorio una comprensione
+completa delle dimensioni internazionali delle rispettive discipline. Infatti, attraverso una
+combinazione di conoscenze teoriche ed esperienze pratiche, questo percorso mira a dotare gli
+studenti delle competenze necessarie per perseguire opportunità professionali all'estero.
+Ricoprono un ruolo fondamentale per aumentare l’inclusività e la socialità, che concorrono alla
+dispersione scolastica, i progetti PON FSE (Progetto Social Learning) e FSER e POR che prevedono
+attività laboratoriali che, generalmente innescano meccanismi di curiosità, partecipazione e
+acquisizione di competenze. In particolare, la progettazione e la realizzazione dei percorsi didattici e
+formativi del Progetto Social Learning sono ispirate all’utilizzo di metodologie didattiche innovative,
+che valorizzano l’apprendimento attivo e cooperativo, con particolare attenzione anche al benessere
+personale e alle relazioni. Le azioni promuovono il protagonismo degli studenti, in situazioni
+esperienziali.
+Per la riduzione dei divari negli apprendimenti e contrasto alla dispersione scolastica è in fase di
+realizzazione il piano "EDULAB: oltre le discipline" ed il piano "EDULAB2: oltre le discipline" strutturati
+in edizioni di percorsi di mentoring e orientamento; edizioni di percorsi di potenziamento delle
+competenze di base, di motivazione e accompagnamento; edizioni di percorsi di orientamento con il
+coinvolgimento delle famiglie; edizioni di percorsi formativi e laboratoriali co-curriculari. I percorsi 
+progettati si prefiggono l'obiettivo di ridurre il fallimento formativo precoce facendo leva, in modo
+particolare, su queste due dimensioni: motivazione allo studio e all'apprendimento e aspettative
+verso il futuro, avendo come punto di partenza l'analisi delle criticità emerse dagli esiti delle prove
+INVALSI. Quello della dispersione scolastica è, infatti, un tema molto delicato da non considerare
+solo nel suo esclusivo senso esplicito cioè dello studente che esce dal sistema formativo
+prematuramente, ma anche nel senso più implicito, che si manifesta con la demotivazione cronica e
+la conseguente incapacità di acquisire le competenze essenziali. Tutti i percorsi si pongono
+l'obiettivo di mettere al centro del "processo formativo" la costruzione attiva della conoscenza da
+parte degli studenti, per renderli sempre più protagonisti ed autonomi, sviluppare il loro pensiero
+critico, riflessivo e creativo.
+Essendo un Istituto tecnico tecnologico, vengono tenute in grande considerazione le competenze
+STEM e multilinguistiche che sono in fase di realizzazione anche con il piano "EDU.STEM" che si pone
+da un lato l'obiettivo di potenziare l’apprendimento delle discipline STEM ( attraverso l’introduzione
+dell’insegnamento di Robotica e Intelligenza Artificiale) mediante una didattica attiva ed
+esperienziale che miri ad accrescere il pensiero critico, a potenziare l’attitudine al problem solving,
+alla progettazione, alla creatività e alla formazione di una “coscienza scientifica” necessaria per
+comprendere il presente, per esercitare una cittadinanza attiva e consapevole e sviluppare
+competenze utili per il mondo del lavoro; dall’altro lato si rende necessaria l’attivazione di percorsi
+volti al conseguimento di certificazioni linguistiche e che preparano gli studenti alla mobilità
+nell'ambito del programma Erasmus+ perché l’Istituto è da tempo impegnato in un processo di
+internazionalizzazione delle attività e innovazione delle pratiche didattiche.
+L’ITT G. Malafarina è impegnato in molti accordi di rete tra Istituzioni scolastiche, che prevedono la
+realizzazione di Partenariati strategici attraverso lo scambio di esperienze e buone pratiche.
+Altre attività come la promozione dell'educazione alla salute, educazione stradale e finanziaria,
+contrasto al bullismo e cyberbullismo attraverso convegni e seminari si svolgono con la
+partecipazione attiva di Enti e Associazioni del territorio. Già dall'a.s. 2023/24 sono state svolte
+iniziative in occasione della celebrazione del "Giorno del Ricordo" istituito con la legge 30 marzo
+2004 n. 92 ed anche nell'a.s. 2024/25 continuerà la promozione della conoscenza storica e culturale
+degli eventi legati alle foibe e all'esodo giuliano dalmata attraverso la partecipazione delle giovani
+generazioni alle celebrazioni.
+I giochi d'Autunno di matematica, le olimpiadi di informatica, di problem solving, campionati
+studenteschi, sono intesi come ragionata ridisegnazione dei percorsi didattici e formativi, come
+La capacità dell’istituto di adattarsi ai mutamenti della società è, come già detto, una sua prerogativa
+e l’obiettivo primario è quello di fare il possibile per favorire l’occupazione nel nostro territorio e
+poter trattenere i nostri ragazzi e non vederli così costretti ad abbandonare la propria terra in cerca
+di un futuro altrove.
+Grazie alla sinergia con il comune di Soverato, l’Università della Calabria, e alcune aziende calabresi,
+dall’ a. s. 2020/21 è nato l’Alta Formazione “ISTITUTO TECNICO SUPERIORE CADMO” ad indirizzo
+“nuove tecnologie della informazione e della comunicazione”. L’Istituto, primo ITS della provincia di
+Catanzaro, è finanziato dal Ministero per l’ Istruzione Università e Ricerca e dalla Regione Calabria e
+svolge la propria attività in apposita sede concessa dal Comune di Soverato. I docenti saranno
+selezionati tra i migliori esperti in campo nazionale ed internazionale. Nell'a.s. 2024/25 l'Istituto G.
+Malafarina ha avviato la sperimentazione della Filiera formativa tecnologico professionale 4+2 che si
+raccorda ai percorsi dell’istruzione terziaria appunto garantiti dall’ITS Academy Cadmo e da un
+peculiare impianto di orientamento al mercato del lavoro realizzato nell’ambito del percorso.
+Dal 2020/2021 il curricolo degli istituti scolastici si arricchisce del nuovo insegnamento di Educazione
+Civica e dall'a.s. 2024/25 vengono seguite le nuove Linee guida emanate con DM n. 135 del
+07/09/2024.
+Le Competenze certificate al termine del Primo Biennio Obbligatorio, le Competenze in uscita
+(Competenze specifiche alla fine del secondo biennio e del quinto anno), i PECUP (Il profilo
+educativo, culturale e professionale dei singoli indirizzi), gli aspetti qualificanti del curricolo d’istituto
+(Integrazione del curricolo e forme di flessibilità didattica), il Curricolo delle competenze chiave di
+cittadinanza, il Curricolo delle competenze chiave trasversali, sono presentati nel PTOF d'Istituto.
+
+Scelte organizzative
+Organizzazione
+PREMESSA
+Il Dirigente scolastico definisce il modello organizzativo e garantisce la Direzione unitaria della scuola
+in maniera pienamente funzionale al perseguimento degli obiettivi assegnati, promuovendo
+occasioni reali di partecipazione e collaborazione tra le diverse componenti interne ed esterne della
+comunità scolastica.
+Il modello organizzativo che caratterizza l’Istituto si basa su una leadership efficace che, mediante
+l'utilizzo qualificato dello strumento della "delega", consente al Dirigente scolastico di attribuire, nel
+rispetto delle prerogative degli OO.CC., ruoli e funzioni, scelte funzionali alle esigenze didattiche,
+organizzative e progettuali dell’ istituzione scolastica .
+Il responsabile di istituto è il Dirigente Scolastico. L'organizzazione interna si articola su due ambiti,
+quello didattico e quello degli uffici. Per quanto riguarda l'attività didattico-educativa le figure di
+riferimento sono: il Dirigente Scolastico, i collaboratori scolastici, lo staff del D.S.(comma 83, Legge
+n.107/2015, le funzioni strumentali, i capidipartimento, i responsabili di laboratorio, l'animatore
+digitale, i coordinatori di progetto, i referenti) . Il responsabile dell'organizzazione degli uffici è il
+D.S.G.A. (Direttore dei Servizi Generali e Amministrativi), che sovrintende ai servizi generali della
+segreteria e ne verifica i risultati, rispetto agli obiettivi assegnati e agli indirizzi impartiti al personale
+A.T.A.
+CONTATTI:
+L'organizzazione degli Uffici e le modalità di rapporto con l'utenza sono reperibili su Scuola in chiaro.
+Sono di seguito riportati i principali canali per eventuali contatti con l'istituto:
+ISTITUTO TECNICO TECNOLOGICO "G. Malafarina", via Trento e Trieste, snc - 88068 Soverato (CZ)
+Telefono ufficio: 096721693
+Indirizzo e-mail: cztl06000d@istruzione.it
+Posta Elettronica Certificata: cztl06000d@pec.istruzione.it
+La segreteria didattica e amministrativa è a disposizione dell’utenza per qualsiasi informazione.
+L’orario di sportello è il seguente: tutti i giorni, sabato compreso, dalle 11.00 alle 13.00 - dal lunedì al
+
+
+PTOF 2025-2028
+
+Scelte organizzative
+
+venerdì anche in orario pomeridiano dalle 15:00 alle 17:00.
+Sito istituzionale: www.itmalafarina.edu.it
+
