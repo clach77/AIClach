@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
+    console.log("Avatar Script Loaded v2 - EdgeTTS");
     const chatForm = document.getElementById('chat-form');
     const userInput = document.getElementById('user-input');
     const chatHistory = document.getElementById('chat-history');
@@ -61,8 +62,9 @@ document.addEventListener('DOMContentLoaded', () => {
     // Stop Button Handler
     if (stopBtn) {
         stopBtn.addEventListener('click', () => {
-            if (synthesis.speaking) {
-                synthesis.cancel();
+            if (audio) {
+                audio.pause();
+                audio = null;
                 setAvatarState('idle');
             }
         });
@@ -74,8 +76,11 @@ document.addEventListener('DOMContentLoaded', () => {
         // If speaking, stop speech and return (don't send message yet)
         // Or should we send the message? The user said "same function on the send button".
         // The stop button ONLY stops speech. So let's stop speech.
-        if (synthesis.speaking) {
-            synthesis.cancel();
+        // If speaking, stop speech and return
+        // If speaking, stop speech and return
+        if (audio && !audio.paused) {
+            audio.pause();
+            audio = null;
             setAvatarState('idle');
             return;
         }
@@ -204,51 +209,58 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    function speak(text) {
-        if (!synthesis) return;
+    let audio = null;
 
-        // Cancel any current speech
-        synthesis.cancel();
+    async function speak(text) {
+        // Stop any current audio
+        if (audio) {
+            audio.pause();
+            audio = null;
+        }
+        setAvatarState('idle');
 
-        // Strip HTML tags for speech
+        // Strip HTML tags
         const plainText = text.replace(/<[^>]*>/g, '');
 
-        const utterance = new SpeechSynthesisUtterance(plainText);
-        utterance.lang = 'it-IT';
+        try {
+            const response = await fetch('/tts', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ text: plainText }),
+            });
 
-        // Select a female Italian voice if available
-        const voices = synthesis.getVoices();
-        const italianVoices = voices.filter(voice => voice.lang.includes('it'));
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
 
-        // Priority list for female voices
-        const femaleVoice = italianVoices.find(voice =>
-            voice.name.includes('Google') || // Google Italiano (often female)
-            voice.name.includes('Alice') ||  // Common female voice
-            voice.name.includes('Elsa') ||   // Common female voice
-            voice.name.includes('Serena') || // Common female voice
-            voice.name.includes('Paola') ||  // Common female voice
-            voice.name.toLowerCase().includes('female') // Generic check
-        );
-
-        if (femaleVoice) {
-            utterance.voice = femaleVoice;
+            const data = await response.json();
+            if (data.audio_url) {
+                playAudio(data.audio_url);
+            }
+        } catch (error) {
+            console.error('TTS Error:', error);
+            setAvatarState('idle');
         }
+    }
 
-        utterance.rate = 1.0;
-        utterance.pitch = 1.1; // Slightly higher pitch for a younger voice
+    function playAudio(url) {
+        audio = new Audio(url);
 
-        utterance.onstart = () => {
+        audio.onplay = () => {
             setAvatarState('speaking');
         };
 
-        utterance.onend = () => {
+        audio.onended = () => {
             setAvatarState('idle');
         };
 
-        utterance.onerror = () => {
+        audio.onerror = () => {
+            console.error('Audio playback error');
             setAvatarState('idle');
         };
 
-        synthesis.speak(utterance);
+        audio.play();
     }
 });

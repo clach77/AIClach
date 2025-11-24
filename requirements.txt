@@ -3,3 +3,4 @@ uvicorn
 ollama
 jinja2
 python-multipart
+

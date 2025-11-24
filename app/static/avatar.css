@@ -1,8 +1,8 @@
 /* Avatar Styles */
 .avatar-container {
     position: relative;
-    width: 250px;
-    height: 250px;
+    width: 350px;
+    height: 350px;
     margin: 0 auto;
 }
 
@@ -39,7 +39,6 @@
 
 .avatar-container.speaking .avatar-image {
     border-color: var(--accent-color);
-    animation: speak-pulse 0.5s infinite alternate;
 }
 
 /* Listening State */
@@ -106,4 +105,16 @@
     to {
         transform: rotate(360deg);
     }
+}
+
+/* Logo Styles */
+.logo-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.school-logo {
+    max-width: 150px;
+    height: auto;
+    filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.2));
 }
