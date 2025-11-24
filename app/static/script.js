@@ -11,8 +11,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Voice API Support Check
     const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
-    const synthesis = window.speechSynthesis;
     let recognition = null;
+    let audio = null;
 
     if (SpeechRecognition) {
         recognition = new SpeechRecognition();
@@ -209,7 +209,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    let audio = null;
+
 
     async function speak(text) {
         // Stop any current audio
